@@ -1,2 +1,2 @@
-# bolt.new
-my first app bolt.new
+# bolt.diy
+my first app 
